@@ -7,3 +7,4 @@ This is an introductory practical on Git and Github
 Just learned how to push.
 
 # Now learning how to clone
+Done with cloning via https.
